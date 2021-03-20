@@ -5,8 +5,8 @@ import PokemonSearch from './components/PokemonSearch';
 
 function App() {
   return (
-    <div className="App">
-      <PokemonSearch name="Anastasiia" numberOfPokemons={2} />
+    <div className='App'>
+      <PokemonSearch name='Anastasiia' numberOfPokemons={2} />
     </div>
   );
 }
